@@ -1,1 +1,2 @@
-# EcoNest
+ Econest – Hotel Comparison & Booking Platform
+Econest is a full-stack web application that simplifies hotel discovery, comparison, and booking. Built with the MERN stack, Econest offers users a modern, intuitive interface to find the best hotels based on pricing, amenities, reviews, and availability. It’s designed to bring transparency, efficiency, and accessibility to hotel selection for travelers.
